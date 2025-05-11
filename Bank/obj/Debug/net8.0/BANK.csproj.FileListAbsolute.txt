@@ -1,0 +1,16 @@
+C:\Users\DAI PC\source\repos\BANK\BANK\obj\Debug\net8.0\BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAI PC\source\repos\BANK\BANK\obj\Debug\net8.0\BANK.AssemblyInfoInputs.cache
+C:\Users\DAI PC\source\repos\BANK\BANK\obj\Debug\net8.0\BANK.AssemblyInfo.cs
+C:\Users\DAI PC\source\repos\BANK\BANK\obj\Debug\net8.0\BANK.csproj.CoreCompileInputs.cache
+C:\Users\DAI PC\source\repos\BANK\BANK\obj\Debug\net8.0\BANK.sourcelink.json
+C:\Users\DAI PC\source\repos\Bank\BANK\bin\Debug\net8.0\BANK.exe
+C:\Users\DAI PC\source\repos\Bank\BANK\bin\Debug\net8.0\BANK.dll.config
+C:\Users\DAI PC\source\repos\Bank\BANK\bin\Debug\net8.0\BANK.deps.json
+C:\Users\DAI PC\source\repos\Bank\BANK\bin\Debug\net8.0\BANK.runtimeconfig.json
+C:\Users\DAI PC\source\repos\Bank\BANK\bin\Debug\net8.0\BANK.dll
+C:\Users\DAI PC\source\repos\Bank\BANK\bin\Debug\net8.0\BANK.pdb
+C:\Users\DAI PC\source\repos\Bank\BANK\obj\Debug\net8.0\BANK.dll
+C:\Users\DAI PC\source\repos\Bank\BANK\obj\Debug\net8.0\refint\BANK.dll
+C:\Users\DAI PC\source\repos\Bank\BANK\obj\Debug\net8.0\BANK.pdb
+C:\Users\DAI PC\source\repos\Bank\BANK\obj\Debug\net8.0\BANK.genruntimeconfig.cache
+C:\Users\DAI PC\source\repos\Bank\BANK\obj\Debug\net8.0\ref\BANK.dll

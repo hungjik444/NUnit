@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DAI PC\\source\\repos\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12FC5503-0ACF-4902-8F32-E5C2DC280365}|BankTests\\BankTests.csproj|c:\\users\\dai pc\\source\\repos\\bank\\banktests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12FC5503-0ACF-4902-8F32-E5C2DC280365}|BankTests\\BankTests.csproj|solutionrelative:banktests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF680DF4-1C85-4A6F-92A9-3CA1AFEE6D45}|BANK\\BANK.csproj|c:\\users\\dai pc\\source\\repos\\bank\\bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF680DF4-1C85-4A6F-92A9-3CA1AFEE6D45}|BANK\\BANK.csproj|solutionrelative:bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF680DF4-1C85-4A6F-92A9-3CA1AFEE6D45}|BANK\\BANK.csproj|c:\\users\\dai pc\\source\\repos\\bank\\bank\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF680DF4-1C85-4A6F-92A9-3CA1AFEE6D45}|BANK\\BANK.csproj|solutionrelative:bank\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12FC5503-0ACF-4902-8F32-E5C2DC280365}|BankTests\\BankTests.csproj|c:\\users\\dai pc\\source\\repos\\bank\\banktests\\banktests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12FC5503-0ACF-4902-8F32-E5C2DC280365}|BankTests\\BankTests.csproj|solutionrelative:banktests\\banktests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DAI PC\\source\\repos\\Bank\\Bank\\obj\\Debug\\net8.0\\BANK.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank\\obj\\Debug\\net8.0\\BANK.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankTests",
+              "DocumentMoniker": "C:\\Users\\DAI PC\\source\\repos\\Bank\\BankTests\\BankTests.csproj",
+              "RelativeDocumentMoniker": "BankTests\\BankTests.csproj",
+              "ToolTip": "C:\\Users\\DAI PC\\source\\repos\\Bank\\BankTests\\BankTests.csproj",
+              "RelativeToolTip": "BankTests\\BankTests.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T10:23:58.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BANK.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DAI PC\\source\\repos\\Bank\\Bank\\obj\\Debug\\net8.0\\BANK.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Bank\\obj\\Debug\\net8.0\\BANK.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\DAI PC\\source\\repos\\Bank\\Bank\\obj\\Debug\\net8.0\\BANK.AssemblyInfo.cs",
+              "RelativeToolTip": "Bank\\obj\\Debug\\net8.0\\BANK.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:16:54.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\DAI PC\\source\\repos\\Bank\\Bank\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Bank\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\DAI PC\\source\\repos\\Bank\\Bank\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Bank\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:14:29.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "C:\\Users\\DAI PC\\source\\repos\\Bank\\BankTests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "BankTests\\BankAccountTests.cs",
+              "ToolTip": "C:\\Users\\DAI PC\\source\\repos\\Bank\\BankTests\\BankAccountTests.cs",
+              "RelativeToolTip": "BankTests\\BankAccountTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:06:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\DAI PC\\source\\repos\\Bank\\Bank\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Bank\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\DAI PC\\source\\repos\\Bank\\Bank\\BankAccount.cs",
+              "RelativeToolTip": "Bank\\BankAccount.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvw0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:02:52.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
